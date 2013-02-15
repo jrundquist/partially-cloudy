@@ -1,5 +1,8 @@
-# partially-cloudy
+# partially-cloudy 
 __Probabilistic Cloud Storage.__
+
+![Clouds](http://htcfanboys.com/download/rawdealer/files/UCCW/Dock2/Hyper-Reality%20XL/partly%20cloudy.png)
+
 
 ## What is it?
 Have you ever found yourself needing a real-time data store connection to your server that's stability is predicated upon the weather conditions of your users?
